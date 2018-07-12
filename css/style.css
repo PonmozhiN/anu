@@ -1,0 +1,12 @@
+body{
+    background-color: violet;
+    font-family: Arial;
+    width: 600px;
+    margin: auto;
+}
+blockquote{
+    color:black;
+    margin-left: 50px;
+    border: 1px solid white;
+    text-align: center;
+}
